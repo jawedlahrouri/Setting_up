@@ -1,3 +1,5 @@
+[![Academic Year](https://img.shields.io/badge/Epitech-Tek1-blue?style=for-the-badge&logo=epitech&logoColor=white)](https://www.epitech.eu/)
+
 # Setting Up - C Project
 
 ## Description
